@@ -13,6 +13,10 @@
 
 }
 
+#i:hover{
+    cursor: pointer;
+
+}
 
 h4{
     color: rgb(19, 18, 18);
