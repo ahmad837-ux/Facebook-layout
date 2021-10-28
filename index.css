@@ -109,7 +109,7 @@ flex-direction: column;
 
 
 #request:hover{
-    background-color: lightslategrey;
+    background-color:#0F91F3;
     color: white;
      border: solid;
      border-radius: 20px;
@@ -122,7 +122,7 @@ flex-direction: column;
     margin-top: 10px;
 }
 #team:hover{
-    background-color: lightslategrey;
+    background-color: #0F91F3;
     color: white;
     cursor: pointer;
 
