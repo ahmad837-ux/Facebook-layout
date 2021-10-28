@@ -5,6 +5,15 @@
 
  }
 
+#berlin:hover{
+    border: thin;
+    border-radius: 70px;
+    cursor: pointer;
+
+
+}
+
+
 h4{
     color: rgb(19, 18, 18);
 }
