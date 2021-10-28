@@ -1,11 +1,21 @@
  body{
      padding: 0px;
      margin: 0px;
-    /* background-color:#616161;     */
+    background-color:#808080;    
+
  }
+
+h4{
+    color: white;
+}
+p{
+    color: white;
+}
 
 #nav
 {
+    position:sticky;
+    top: 0px;
     display: flex;
     flex-direction: row;
     background-color: #242526;
