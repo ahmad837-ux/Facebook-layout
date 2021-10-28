@@ -92,7 +92,8 @@ h4{
    border-left: none;
    border-right: none;
    cursor: pointer;
-   background-color:grey;
+   background-color:#0F91F3;
+   opacity: 50%;
    color: white;
 }
 .rightside
